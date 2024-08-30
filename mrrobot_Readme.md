@@ -115,6 +115,7 @@ Among them one was our key. Paste that file in the browser like: `ip_address/key
 **Q1. What is key 1?**
 
 **Ans:** 
+
 <img src="media/mrrobot/key1.png">
 
 With that we have completed second phase. Now, let's try to exploit the machine and get shell access.
@@ -366,6 +367,7 @@ Type the password and then read the content of key-2-of-3.txt file. There we got
 **Q2.What is key 2?**
 
 **Ans:**
+
 <img src="media/mrrobot/key2.png">
 
 With that we have completed our phase3. Now we have to do privilege escalation to find the next key.
@@ -402,6 +404,7 @@ And then we got our root shell. Navigate to `/root` directory and read the key.
 **Q3. What is key 3?**
 
 **Ans:**
+
 <img src="media/mrrobot/key3.png">
 
 

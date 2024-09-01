@@ -1,5 +1,5 @@
 # <center>Blue</center>
-<p align='center'><img src="media/blue/logo.gif" width=100% height=400></p>
+<p align='center'><img src="media/blue/logo.gif" width=90% height=460></p>
 
 
 Hey Net Guardians! Hope you are doing good with your hacking journey and cracking more and more machines. Today we came back with walkthrough of another easy category THM machine called Blue. This is a window machine where we will be dealing with one of the most famous cyber attack that affected almost every window machine back in 2017. `Eternal blue` is exploit that takes an advantage of a vulnerability in the Server Message Block (SMB) protocol, which is used for file and printer sharing in Windows operating systems. Ok that was a short description on what we are going to do in the machine. If you want to know more about this exploit then we can refer [Eternal Blue Documentation](https://www.cisecurity.org/wp-content/uploads/2019/01/Security-Primer-EternalBlue.pdfSands).
